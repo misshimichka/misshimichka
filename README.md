@@ -2,7 +2,7 @@
 
 ## 👀 About me 👀
 - 👩‍🎓 high school graduated 👩‍🎓
-- 🏫 continue studying Computer Science at HSE SPb (Applied Data Analisys & Artificial Intelligence) 🏫
+- 🏫 continue studying Computer Science at HSE SPb (Applied Data Analysis & Artificial Intelligence) 🏫
 - 🧠 2 years in ML (I'm interested in Computer Vision and multimodal problems) 🧠
 - 🐍 Python as a main language 🐍
 
