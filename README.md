@@ -9,6 +9,7 @@
 ## 💪 My last projects 💪
 - [New stickers generation uisng DreamBooth](https://github.com/misshimichka/HSE-VK-2023)
 - [Our solve for National Technological Olympiad in Artificial Intelligence 2023 finals (10th place in private liderboard)](https://github.com/misshimichka/nto_ai_2023_final)
+- [Telegram Chat-Bot: Conversational model trained on Russian olympiads in ICT' chats](https://github.com/misshimichka/tinkoff-sirius-ml)
 
 ## 🎯 Goals for next 2 years 🎯
 - get an internship in ML
