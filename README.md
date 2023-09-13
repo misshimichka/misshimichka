@@ -16,6 +16,7 @@
 - practice NLP
 - try offline hackathons
 - learn mathematics for Data Science
+- vizit Japan
 
 ## ☎️ Contacts ☎️
 - Telegram: [@misshimichka](https://t.me/misshimichka)
