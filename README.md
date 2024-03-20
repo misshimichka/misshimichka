@@ -4,7 +4,7 @@
 - 👩‍🎓 high school graduated 👩‍🎓
 - 🏫 continue studying Computer Science at HSE SPb (Applied Data Analysis & Artificial Intelligence) 🏫
 - 🧠 2 years in ML (I'm interested in Computer Vision and multimodal problems) 🧠
-- 🐍 Python as a main language 🐍
+- 🐍 Python as a main language 🐍 (besides, I had a half-year course in C++ at university and one-year course in Java and Android development at Samsung IT school)
 
 ## 💪 My last projects 💪
 - [Telegram Chat-Bot: Conversational model trained on Russian olympiads in ICT' chats](https://github.com/misshimichka/tinkoff-sirius-ml)
