@@ -1,8 +1,7 @@
 ![photo](https://github.com/misshimichka/misshimichka/assets/92110572/27f78701-3e9f-4794-be31-2ec4895d8a4f)
 
 ## 👀 About me 👀
-- 👩‍🎓 high school graduated 👩‍🎓
-- 🏫 continue studying Computer Science at HSE SPb (Applied Data Analysis & Artificial Intelligence) 🏫
+- 🏫 studying Computer Science at HSE SPb (Applied Data Analysis & Artificial Intelligence) 🏫
 - 🧠 3 years in ML (I'm interested in Computer Vision and multimodal problems) 🧠
 - 🐍 Python as a main language 🐍 (besides, I had a half-year course in C++ at university and one-year course in Java and Android development at Samsung IT school)
 
