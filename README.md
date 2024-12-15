@@ -1,4 +1,4 @@
-![photo](https://github.com/misshimichka/misshimichka/assets/92110572/27f78701-3e9f-4794-be31-2ec4895d8a4f)
+Всем привет, я миссхимичка 
 
 ## 👀 About me 👀
 - 2-year Computer Science student at HSE SPb (Applied Data Analysis & Artificial Intelligence)
