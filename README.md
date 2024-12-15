@@ -1,22 +1,22 @@
 ![photo](https://github.com/misshimichka/misshimichka/assets/92110572/27f78701-3e9f-4794-be31-2ec4895d8a4f)
 
 ## 👀 About me 👀
-- 🏫 studying Computer Science at HSE SPb (Applied Data Analysis & Artificial Intelligence) 🏫
-- 🧠 3 years in ML (I'm interested in Computer Vision and multimodal problems) 🧠
-- 🐍 Python as a main language 🐍 (besides, I had a half-year course in C++ at university and one-year course in Java and Android development at Samsung IT school)
+- 2-year Computer Science student at HSE SPb (Applied Data Analysis & Artificial Intelligence)
+- 3 years in ML (I'm interested in Computer Vision and multimodal problems)
+- Programming languages: C, C++, Python, Java (basics), ASM
+- Stack of technologies: PyTorch, Git, Docker, Postgres, FastAPI
 
 ## 💪 My last projects 💪
+- [Interactive image editing (Sirius x T-Bank ML educational program)](https://github.com/misshimichka/TBankCvCase)
 - [Generation of animated stickers (1-year university project)](https://github.com/misshimichka/HSE-project-2024)
 - [Telegram Chat-Bot: Conversational model trained on Russian olympiads in ICT' chats](https://github.com/misshimichka/tinkoff-sirius-ml)
 - [New stickers generation uisng DreamBooth](https://github.com/misshimichka/HSE-VK-2023)
-- [Our solve for National Technological Olympiad in Artificial Intelligence 2023 finals (10th place in private liderboard)](https://github.com/misshimichka/nto_ai_2023_final)
 
 ## 🎯 Goals for next 2 years 🎯
-- get an internship in ML
 - practice NLP
-- try offline hackathons
-- learn mathematics for Data Science
-- visit Japan
+- visit Sirius (more Sirius!!!)
+- study more about advanced mathematics and optimisation theory
+- visit Japan and China
 
 ## ☎️ Contacts ☎️
 - Telegram: [@misshimichka](https://t.me/misshimichka)
