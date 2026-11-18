@@ -17,11 +17,8 @@
 - Statistics/Probability Theory
 
 ## 🎯 Goals for next 2 years 🎯
-- dive in ML HARDWARE
 - study more advanced mathematics and optimization theory
-- я очень хочу поступить в магистратуру ВШЭ и Сколтеха "Математика машинного обучения" (это не стокгольмский синдром честно-честно...)
-- ШАД
-- Practice C++
+- беззаботно отдыхать на море
 
 ## ☎️ Contacts ☎️
 - Telegram: [@misshimichka](https://t.me/misshimichka)
